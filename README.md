@@ -1,9 +1,9 @@
 # StripHTML
 
 
-[![Version](https://img.shields.io/cocoapods/v/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
-[![License](https://img.shields.io/cocoapods/l/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
-[![Platform](https://img.shields.io/cocoapods/p/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
+[![Version](https://img.shields.io/cocoapods/v/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)]
+[![License](https://img.shields.io/cocoapods/l/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)]
+[![Platform](https://img.shields.io/cocoapods/p/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)]
 
 ## Overview
 StripHTML is a category of NSString, written in Objective-c, that remove tags from an HTML string.
