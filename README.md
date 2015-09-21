@@ -1,6 +1,6 @@
 # StripHTML
 
-[![CI Status](http://img.shields.io/travis/brurend/StripHTML.svg?style=flat)](https://travis-ci.org/brurend/StripHTML)
+
 [![Version](https://img.shields.io/cocoapods/v/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
 [![License](https://img.shields.io/cocoapods/l/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
 [![Platform](https://img.shields.io/cocoapods/p/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
