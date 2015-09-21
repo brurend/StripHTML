@@ -10,6 +10,7 @@
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
+IOS8
 
 ## Installation
 
@@ -22,7 +23,7 @@ pod "StripHTML"
 
 ## Author
 
-brurend, brurend@hotmail.com
+brurend
 
 ## License
 
