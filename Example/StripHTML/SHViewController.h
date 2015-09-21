@@ -10,4 +10,6 @@
 
 @interface SHViewController : UIViewController
 
+@property (weak, nonatomic) IBOutlet UILabel *htmlLabel;
+
 @end

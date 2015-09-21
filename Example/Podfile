@@ -1,12 +1,12 @@
 source 'https://github.com/CocoaPods/Specs.git'
 use_frameworks!
 
-target 'StripHTML_Example', :exclusive => true do
-  pod "StripHTML", :path => "../"
+target 'StripHTML_Example' do
+  pod "StripHTML", :path => '../' 
 end
 
 target 'StripHTML_Tests', :exclusive => true do
-  pod "StripHTML", :path => "../"
+  pod "StripHTML", :path => '../'
 
   pod 'Specta'
   pod 'Expecta'
