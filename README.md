@@ -35,7 +35,7 @@ pod "StripHTML"
 
 ## Author
 
-brurend
+Bruno Rendeiro
 
 ## License
 
