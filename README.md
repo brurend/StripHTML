@@ -5,7 +5,19 @@
 [![License](https://img.shields.io/cocoapods/l/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
 [![Platform](https://img.shields.io/cocoapods/p/StripHTML.svg?style=flat)](http://cocoapods.org/pods/StripHTML)
 
+## Overview
+StripHTML is a category of NSString, written in Objective-c, that remove tags from an HTML string.
+
 ## Usage
+
+```Objective-C
+#import #import <StripHTML/NSString+StripHTML.h>
+
+NSString *htmlString = @"<p> This is a string with tags <p>";
+NSString *taglessString = [htmlString removeTags];
+```
+
+## Example Project
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
