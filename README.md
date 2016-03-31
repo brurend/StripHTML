@@ -22,7 +22,8 @@ NSString *taglessString = [htmlString removeTags];
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
 
 ## Requirements
-IOS8
+
+StripHTML supports iOS 8.3+.
 
 ## Installation
 
