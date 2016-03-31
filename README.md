@@ -11,7 +11,7 @@ StripHTML is a category of NSString, written in Objective-c, that remove tags fr
 ## Usage
 
 ```Objective-C
-#import #import <StripHTML/NSString+StripHTML.h>
+#import <StripHTML/NSString+StripHTML.h>
 
 NSString *htmlString = @"<p> This is a string with tags <p>";
 NSString *taglessString = [htmlString removeTags];
